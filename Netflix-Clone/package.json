@@ -12,7 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "homepage": "https://fikirmamo.github.io/Netflix-Clone-3-2025",
+    "homepage": "https://github.com/fikirmamo/Netflix-Clone-3-2025",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^6.4.4",
